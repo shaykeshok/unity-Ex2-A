@@ -1,11 +1,6 @@
-# Unity week 2: Prefabs, collisions, coroutines
-
-Some material is based on the Udemy course:
-[The Ultimate Guide to Game Development with Unity 2019](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/), by Jonathan Weinberger
-
-
-Some assets are from:
-* [Matt Whitehead](https://ccsearch.creativecommons.org/photos/7fd4a37b-8d1a-4d4c-80a2-4ca4a3839941)
-* [Kenney's space kit](https://kenney.nl/assets/space-kit)
-* [Ductman's 2D Animated Spacehips](https://assetstore.unity.com/packages/2d/characters/2d-animated-spaceships-96852)
-* [Franc from the Noun Project](https://commons.wikimedia.org/w/index.php?curid=64661575)
+מדובר על סעיף א בלבד במטלה
+עשינו בסעיף זה את זה:
+החללית של השחקן לא נהרסת מייד כשהוא מתנגש באויב, אלא יש לו בתחילת המשחק 3" נקודות
+פגיעה" )points hit ,)כל פגיעה באויב מורידה לו נקודה אחת, ורק כשהוא מגיע לאפס הוא נהרס.
+והדבר המקורי זה שיש עכשיו שני אובייקטים על המסך בתחילת המשחק ואחד מהם הוא מהירות גבוה יותר לכמה שניות והשני זה המגן שהמרצה יצר בשיעור.
+הנקודה המעניינת זה שבאותה מידה יכולנו להוסיף עוד אובייקט כזה שלא טוב לשחקן והוא לא היה מזהה מה טוב לו ומה לא וזה היה מעניין יותר
